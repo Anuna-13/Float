@@ -1,0 +1,90 @@
+body {
+	width: 1286px;
+	height: 700px;
+	background-color: #56836F;
+}
+.container::after {
+	content: '';
+	clear: both;
+	display: block;
+}
+/*ul {
+	width: 201.2px;
+	height: 151.50px;
+}*/
+.logo2 {
+	float: left;
+	width: 201.2px;
+	height: 151.50px;
+	margin-left: 65.40px;
+	margin-right: 55.90px;
+	/*margin-top: 25px;*/
+}
+.nav-li {
+	float: left;
+	margin-left: 30px;
+	font-size: 48px;
+
+	/*width: 786px;
+	height: 64px;
+	/*font color: #FFFFFF;*/
+}
+.navigation {
+	margin-left: 177.50px;
+	margin-top: 36.20px;
+	/*color: #FFFFFF;*/
+	margin-right: 65.40px;
+	/*width: 786px;
+	height: 64px;*/
+}
+.nav-a {
+	color: #FFFFFF;
+	font-family:'Myriad Pro';
+}
+.active {
+	color: #FCEE21;
+	font-family:'Myriad Pro';
+}
+.clear {
+	clear: both;
+	display: block;
+}
+.image1 {
+	float: right;
+	width: 151.71px;
+	height: 118px;
+}
+.box::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+
+.box {
+	width: 1158px;
+	height: 356px;
+	margin-left: 72px;
+}
+.box-wraper1 {
+	width: 617px;
+	height: 356px;
+	background-color: #FCEE21;
+	float: left;
+	padding: 17.7px 27.50px 16.90px 26px;
+}
+.image2 {
+	float: left;
+	width: 151.71px;
+	height: 118px;
+}
+.box-wraper2 {
+	width: 523px;
+	height: 356px;
+	background-color: #FCEE21;
+	float: left;
+	margin-left: 18px;
+	padding: 17.7px 36.90px 16.90px 26px;
+}
+p {
+	margin-bottom: 10px;
+}
