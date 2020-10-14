@@ -53,6 +53,7 @@ body {
 	float: right;
 	width: 151.71px;
 	height: 118px;
+	padding-left: 15px;
 }
 .box::after{
 	content: '';
@@ -64,9 +65,10 @@ body {
 	width: 1158px;
 	height: 356px;
 	margin-left: 72px;
+	margin-top: 63.5px;
 }
 .box-wraper1 {
-	width: 617px;
+	width: 523px;
 	height: 356px;
 	background-color: #FCEE21;
 	float: left;
@@ -76,6 +78,7 @@ body {
 	float: left;
 	width: 151.71px;
 	height: 118px;
+	padding-right: 15px;
 }
 .box-wraper2 {
 	width: 523px;
@@ -87,4 +90,6 @@ body {
 }
 p {
 	margin-bottom: 10px;
+	font-family: 'Segoe UI';
+	font-size: 14px;
 }
